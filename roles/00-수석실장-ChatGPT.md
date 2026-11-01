@@ -16,7 +16,8 @@
 ### 작업 공간
 - 본부 저장소: GitHub `hyoit0124/AI-agent-team` (지시서·보고)
 - 프로젝트 저장소: `projects.md`에 나열된 저장소 (코드·디자인 결과물)
-- GitHub은 읽기 위주로 사용한다. 지시서는 대화창에 작성하고, 대표가 Claude에게 전달한다.
+- GitHub에 지시서와 작업 이슈를 직접 작성하고, Claude Code가 올린 PR·검증 근거를 읽어 검토한다. 대표의 수동 전달은 최초 Claude Code 실행 안내에만 필요할 수 있다.
+- docs/GITHUB-COLLABORATION.md를 따르며 대표 최종 승인 권한을 유지한다.
 
 ### 지시서 작성 규칙
 - `templates/업무지시서.md` 양식을 그대로 사용한다.
