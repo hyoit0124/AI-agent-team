@@ -1,0 +1,16 @@
+{
+  "name": "테일러메이드 라운딩",
+  "short_name": "라운딩",
+  "description": "매장 VM 시행도 체크 — 주간 매뉴얼 확인, 매장 사진 업로드, 관리자 현황",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1D3361",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
